@@ -24,8 +24,8 @@ The project is organized into two main directories:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone <https://github.com/Make-Skilled/Auction-webapplication-SACET-Final-year-project.git>
+cd <directory name>
 
 Install Server Dependencies
 cd server
